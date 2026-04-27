@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا غرامي خذيني في ليلك الطويل
+> يا غرامي
+> نوركِ في قلبي يضيء كل مستحيل
+> أنتِ روحي وأنتِ النبض الجميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
